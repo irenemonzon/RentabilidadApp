@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "afp": "Capital",
+    "rentabilidad": 0.79
+  },
+  {
+    "id": 1,
+    "afp": "Cuprum",
+    "rentabilidad": 0.49
+  },
+  {
+    "id": 2,
+    "afp": "Habital",
+    "rentabilidad": 0.51
+  },
+  {
+    "id": 3,
+    "afp": "Modelo",
+    "rentabilidad": 0.86
+  },
+  {
+    "id": 4,
+    "afp": "PlanVital",
+    "rentabilidad": 0.79
+  },
+  {
+    "id": 5,
+    "afp": "ProVida",
+    "rentabilidad": 0.48
+  },
+  {
+    "id": 6,
+    "afp": "Uno",
+    "rentabilidad": 0.69
+  }
+]

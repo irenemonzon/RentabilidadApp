@@ -1,0 +1,23 @@
+.container-type {
+  width: 90%;
+  display: flex;
+
+  margin-top: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.items {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  background-color: azure;
+  align-items: center;
+  margin: 10px 5px 5px 10px;
+}
+.info-data {
+  display: flex;
+  width: 90%;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(236, 247, 243);
+}
