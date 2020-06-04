@@ -56,10 +56,10 @@
     width: 35%;
   }
 }
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   .container-input {
-    margin-right: 10px;
-    margin-left: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
   }
   .items {
     width: 80%;
