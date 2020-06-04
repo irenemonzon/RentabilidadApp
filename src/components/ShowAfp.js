@@ -1,6 +1,7 @@
 import React from "react";
 import data from "./data.json";
 import "./ShowAfp.css";
+import SelecType from "./SelectType.js";
 
 const ShowAfp = () => {
   const type = [
@@ -13,6 +14,7 @@ const ShowAfp = () => {
 
   return (
     <div className="container-type">
+      <SelecType />
       {type.map(element => (
         <div className="items" key={element.id}>
           <div className="title-type">

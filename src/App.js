@@ -5,7 +5,9 @@ import ShowAfp from "./components/ShowAfp";
 function App() {
   return (
     <div className="container">
-      <h1>Rentabilidad Real de los fondos de Pensiones</h1>
+      <div className="title">
+        <h1>Rentabilidad Real de los fondos de Pensiones</h1>
+      </div>
       <div className="container-info">
         <ShowAfp />
       </div>
