@@ -1,15 +1,25 @@
 .container {
   width: 100%;
   height: 100vh;
-  background-color: aqua;
+  background-color: #1f5cc7;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 .container-info {
   width: 100%;
-  background-color: rgb(233, 64, 191);
+  background-color: rgb(215, 215, 228);
+
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+@media (max-width: 600px) {
+  h1 {
+    font-size: 20px;
+  }
 }

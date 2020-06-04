@@ -18,13 +18,22 @@ const ShowAfp = () => {
           <div className="title-type">
             <h3>{element.name}</h3>
           </div>
-          {data.map(el => (
-            <div className="info-data" key={el.id}>
-              <p>{el.afp}</p>
+          <div className="container-infodata">
+            {data.map(info => (
+              <div className="info-data" key={info.id}>
+                <p>{info.afp}</p>
 
-              <p>{el.rentabilidad}</p>
-            </div>
-          ))}
+                <div className="container-input">
+                  <div className="input">
+                    <input
+                      style={{ backgroundColor: info.color, width: info.width }}
+                    />
+                  </div>
+                </div>
+                <p>{info.rentabilidad}%</p>
+              </div>
+            ))}
+          </div>
         </div>
       ))}
     </div>

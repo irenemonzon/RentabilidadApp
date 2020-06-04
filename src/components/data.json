@@ -2,36 +2,50 @@
   {
     "id": 0,
     "afp": "Capital",
-    "rentabilidad": 0.79
+    "rentabilidad": 0.79,
+    "color": "#64b03c",
+    "width": "70%"
   },
   {
     "id": 1,
     "afp": "Cuprum",
-    "rentabilidad": 0.49
+    "rentabilidad": 0.49,
+    "color": "#f0763b",
+    "width": "46%"
   },
   {
     "id": 2,
-    "afp": "Habital",
-    "rentabilidad": 0.51
+    "afp": "Habitat",
+    "rentabilidad": 0.51,
+    "color": "#e8b836",
+    "width": "51%"
   },
   {
     "id": 3,
     "afp": "Modelo",
-    "rentabilidad": 0.86
+    "rentabilidad": 0.86,
+    "color": "#64b03c",
+    "width": "80%"
   },
   {
     "id": 4,
     "afp": "PlanVital",
-    "rentabilidad": 0.79
+    "rentabilidad": 0.79,
+    "color": "#64b03c",
+    "width": "75%"
   },
   {
     "id": 5,
     "afp": "ProVida",
-    "rentabilidad": 0.48
+    "rentabilidad": 0.48,
+    "color": "#f0763b",
+    "width": "46%"
   },
   {
     "id": 6,
     "afp": "Uno",
-    "rentabilidad": 0.69
+    "rentabilidad": 0.69,
+    "color": "#64b03c",
+    "width": "65%"
   }
 ]
