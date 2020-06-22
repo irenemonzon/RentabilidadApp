@@ -4,7 +4,7 @@ import "./SelectType.css";
 const SelecType = () => {
   return (
     <div className="container-select">
-      <p>Mayo 2020</p>
+      <p>Mayo 2019</p>
       <select>
         <option>Fondo A</option>
         <option>Fondo B</option>
